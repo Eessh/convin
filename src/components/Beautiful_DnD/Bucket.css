@@ -1,0 +1,11 @@
+.Bucket {
+  min-width: 250px;
+  max-width: 350px;
+  color: black;
+  display: flex;
+  flex-direction: column;
+  background-color: thistle;
+  border-radius: 0.5rem;
+  margin-right: 1rem;
+  padding: 1rem;
+}

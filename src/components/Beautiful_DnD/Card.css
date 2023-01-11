@@ -1,0 +1,15 @@
+.Card {
+  color: slategrey;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid hotpink;
+  border-radius: 0.5rem;
+  background-color: antiquewhite;
+  padding: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.Card__name {
+  font-size: large;
+  font-weight: 500;
+}
